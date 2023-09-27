@@ -77,3 +77,14 @@
   color: white;
   border-radius: 5px;
 }
+
+table,tr,td,th{
+  border: 1px solid gray;
+  border-collapse: collapse;
+}
+td{
+  width: 15vw;
+  padding: 0px 1vw;
+}
+
+/* body */
